@@ -1,0 +1,83 @@
+[
+  {
+    "id_product": 123,
+    "product_name": "Mango People T-shirt",
+    "price": 52,
+    "category": "man",
+    "imgCatalog":"https://i.ibb.co/Njrv43d/1.jpg",
+    "imgCart":"",
+    "imgBig":""
+  },
+  {
+    "id_product": 124,
+    "product_name": "Mango People T-shirt",
+    "price": 52,
+    "category": "man",
+    "imgCatalog":"https://i.ibb.co/X404xgs/2.jpg",
+    "imgCart":"",
+    "imgBig":""
+  },  
+  {
+    "id_product": 125,
+    "product_name": "Mango People T-shirt",
+    "price": 52,
+    "category": "man",
+    "imgCatalog":"https://i.ibb.co/bsyRht9/3.jpg",
+    "imgCart":"",
+    "imgBig":""
+  },  
+  {
+    "id_product": 126,
+    "product_name": "Mango People T-shirt",
+    "price": 52,
+    "category": "man",
+    "imgCatalog":"https://i.ibb.co/vsT4V3x/4.jpg",
+    "imgCart":"",
+    "imgBig":""
+  },  
+  {
+    "id_product": 127,
+    "product_name": "Mango People T-shirt",
+    "price": 52,
+    "category": "man",
+    "imgCatalog":"https://i.ibb.co/f18ZfrF/5.jpg",
+    "imgCart":"",
+    "imgBig":""
+  },  
+  {
+    "id_product": 128,
+    "product_name": "Mango People T-shirt",
+    "price": 52,
+    "category": "man",
+    "imgCatalog":"https://i.ibb.co/KL94mh7/6.jpg",
+    "imgCart":"",
+    "imgBig":""
+  },  
+  {
+    "id_product": 129,
+    "product_name": "Mango People T-shirt",
+    "price": 52,
+    "category": "man",
+    "imgCatalog":"https://i.ibb.co/SVW59zM/7.jpg",
+    "imgCart":"",
+    "imgBig":""
+  },  
+  {
+    "id_product": 113,
+    "product_name": "Mango People T-shirt",
+    "price": 52,
+    "category": "man",
+    "imgCatalog":"https://i.ibb.co/7Qfp7cW/8.jpg",
+    "imgCart":"",
+    "imgBig":""
+  },  
+  {
+    "id_product": 223,
+    "product_name": "Mango People T-shirt",
+    "price": 52,
+    "category": "man",
+    "imgCatalog":"",
+    "imgCart":"",
+    "imgBig":""
+  },
+]
