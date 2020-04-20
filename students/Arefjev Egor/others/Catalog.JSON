@@ -2,19 +2,19 @@
   {
     "id_product": 123,
     "product_name": "Mango People T-shirt",
-    "price": 52,
+    "price": 152,
     "category": "man",
     "imgCatalog":"https://i.ibb.co/Njrv43d/1.jpg"
   },
   {
     "id_product": 124,
     "product_name": "Mango People T-shirt",
-    "price": 52,
+    "price": 252,
     "category": "man",
     "imgCatalog":"https://i.ibb.co/X404xgs/2.jpg"
   },
   {
-    "id_product": 125,
+    "id_product": 1125,
     "product_name": "Mango People T-shirt",
     "price": 52,
     "category": "man",
