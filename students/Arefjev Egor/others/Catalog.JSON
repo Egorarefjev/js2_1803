@@ -5,6 +5,7 @@
     "price": 152,
     "category": "man",
     "imgCatalog":"https://i.ibb.co/Njrv43d/1.jpg",
+    "bigPhoto": "https://placehold.it/600x725",
     "quantity": 0
   },
   {
@@ -13,6 +14,7 @@
     "price": 252,
     "category": "man",
     "imgCatalog":"https://i.ibb.co/X404xgs/2.jpg",
+    "bigPhoto": "https://placehold.it/600x725",
     "quantity": 0
   },
   {
@@ -21,6 +23,7 @@
     "price": 52,
     "category": "man",
     "imgCatalog":"https://i.ibb.co/bsyRht9/3.jpg",
+    "bigPhoto": "https://placehold.it/600x725",
     "quantity": 0
   },
   {
@@ -29,6 +32,7 @@
     "price": 52,
     "category": "man",
     "imgCatalog":"https://i.ibb.co/vsT4V3x/4.jpg",
+    "bigPhoto": "https://placehold.it/600x725",
     "quantity": 0
   },
   {
@@ -37,6 +41,7 @@
     "price": 52,
     "category": "man",
     "imgCatalog":"https://i.ibb.co/f18ZfrF/5.jpg",
+    "bigPhoto": "https://placehold.it/600x725",
     "quantity": 0
 
   },
@@ -46,6 +51,7 @@
     "price": 52,
     "category": "man",
     "imgCatalog":"https://i.ibb.co/KL94mh7/6.jpg",
+    "bigPhoto": "https://placehold.it/600x725",
     "quantity": 0
     },
   {
@@ -54,6 +60,7 @@
     "price": 52,
     "category": "man",
     "imgCatalog":"https://i.ibb.co/SVW59zM/7.jpg",
+    "bigPhoto": "https://placehold.it/600x725",
     "quantity": 0
   },
   {
@@ -62,6 +69,7 @@
     "price": 52,
     "category": "man",
     "imgCatalog":"https://i.ibb.co/7Qfp7cW/8.jpg",
+    "bigPhoto": "https://placehold.it/600x725",
     "quantity": 0
   },
   {
@@ -70,6 +78,7 @@
     "price": 52,
     "category": "man",
     "imgCatalog":"https://i.ibb.co/C0pLXrr/pp2.jpg",
+    "bigPhoto": "https://placehold.it/600x725",
     "quantity": 0
   },
   {
@@ -78,6 +87,7 @@
     "price": 52,
     "category": "man",
     "imgCatalog":"https://i.ibb.co/tmynWvX/pp3.jpg",
+    "bigPhoto": "https://placehold.it/600x725",
     "quantity": 0
   },
   {
@@ -86,6 +96,7 @@
     "price": 52,
     "category": "man",
     "imgCatalog":"https://i.ibb.co/CVkgFrw/pp4.jpg",
+    "bigPhoto": "https://placehold.it/600x725",
     "quantity": 0
   }
 ]
