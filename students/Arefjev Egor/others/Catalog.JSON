@@ -6,7 +6,7 @@
     "category": "man",
     "imgCatalog":"https://i.ibb.co/Njrv43d/1.jpg",
     "bigPhoto": "https://placehold.it/600x725",
-    "quantity": 1
+    "quantity": 0
   },
   {
     "id_product": 124,
@@ -15,7 +15,7 @@
     "category": "man",
     "imgCatalog":"https://i.ibb.co/X404xgs/2.jpg",
     "bigPhoto": "https://placehold.it/600x725",
-    "quantity": 1
+    "quantity": 0
   },
   {
     "id_product": 1125,
@@ -24,7 +24,7 @@
     "category": "man",
     "imgCatalog":"https://i.ibb.co/bsyRht9/3.jpg",
     "bigPhoto": "https://placehold.it/600x725",
-    "quantity": 1
+    "quantity": 0
   },
   {
     "id_product": 126,
@@ -33,7 +33,7 @@
     "category": "man",
     "imgCatalog":"https://i.ibb.co/vsT4V3x/4.jpg",
     "bigPhoto": "https://placehold.it/600x725",
-    "quantity": 1
+    "quantity": 0
   },
   {
     "id_product": 127,
@@ -42,7 +42,7 @@
     "category": "man",
     "imgCatalog":"https://i.ibb.co/f18ZfrF/5.jpg",
     "bigPhoto": "https://placehold.it/600x725",
-    "quantity": 1
+    "quantity": 0
 
   },
   {
@@ -52,7 +52,7 @@
     "category": "man",
     "imgCatalog":"https://i.ibb.co/KL94mh7/6.jpg",
     "bigPhoto": "https://placehold.it/600x725",
-    "quantity": 1
+    "quantity": 0
     },
   {
     "id_product": 129,
@@ -61,7 +61,7 @@
     "category": "man",
     "imgCatalog":"https://i.ibb.co/SVW59zM/7.jpg",
     "bigPhoto": "https://placehold.it/600x725",
-    "quantity": 1
+    "quantity": 0
   },
   {
     "id_product": 113,
@@ -70,7 +70,7 @@
     "category": "man",
     "imgCatalog":"https://i.ibb.co/7Qfp7cW/8.jpg",
     "bigPhoto": "https://placehold.it/600x725",
-    "quantity": 1
+    "quantity": 0
   },
   {
     "id_product": 223,
@@ -79,7 +79,7 @@
     "category": "man",
     "imgCatalog":"https://i.ibb.co/C0pLXrr/pp2.jpg",
     "bigPhoto": "https://placehold.it/600x725",
-    "quantity": 1
+    "quantity": 0
   },
   {
     "id_product": 253,
@@ -88,7 +88,7 @@
     "category": "man",
     "imgCatalog":"https://i.ibb.co/tmynWvX/pp3.jpg",
     "bigPhoto": "https://placehold.it/600x725",
-    "quantity": 1
+    "quantity": 0
   },
   {
     "id_product": 273,
@@ -97,6 +97,6 @@
     "category": "man",
     "imgCatalog":"https://i.ibb.co/CVkgFrw/pp4.jpg",
     "bigPhoto": "https://placehold.it/600x725",
-    "quantity": 1
+    "quantity": 0
   }
 ]
